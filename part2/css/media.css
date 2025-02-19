@@ -1,0 +1,21 @@
+img{
+    border-radius: 50%;
+    width:50px;
+    height: auto;
+
+}
+.basho{
+    position: absolute;
+    left: 0px;
+
+}
+
+.yosa{
+        position: absolute;
+        left: 100px;
+}
+
+.container{
+    position:absolute;
+}
+
